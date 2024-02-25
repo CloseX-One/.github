@@ -1,10 +1,20 @@
 ## Hi there 👋
 
-🙋‍♀️ Introduction: We are currently a non-profit, personally-led organization, primarily focusing on and investing in artificial intelligence and automation projects. We also intend to release some interesting projects and tutorials in the near future.
+🙋‍♀️ Introduction: 
+
+Why We Exist?
+We aim to create, use and share technology for the benefit and advancement of civilization.
+
+What are we?
+We are currently a flexible organization focused on Al exploration, software and hardware design, and technology sharing.
+
+What are our goals?
+Designing, re-imagining and creating a more exciting future.
+
 
 🌈 Name: CloseX, embodies our pursuit of the unknown, symbolizing our cosmic quest to explore uncharted realms, seamlessly merging artificial intelligence and automation with the boundless mysteries of the universe.
 
-Last Updated: Jan23 2024
+Last Updated: Feb 24 2024
 <!--
 
 **Here are some ideas to get you started:**
