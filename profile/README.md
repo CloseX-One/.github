@@ -1,20 +1,22 @@
-## Hi there 👋
+# Hi there 👋
 
-🙋‍♀️ Introduction: 
+## 🙋‍♀️ Introduction
 
-Why We Exist?
+### Why We Exist?
 We aim to create, use and share technology for the benefit and advancement of civilization.
 
-What are we?
+### What are we?
 We are currently a flexible organization focused on Al exploration, software and hardware design, and technology sharing.
 
-What are our goals?
+### What are our goals?
 Designing, re-imagining and creating a more exciting future.
 
 
-🌈 Name: CloseX, embodies our pursuit of the unknown, symbolizing our cosmic quest to explore uncharted realms, seamlessly merging artificial intelligence and automation with the boundless mysteries of the universe.
+## 🌈 Name
 
-Last Updated: Feb 24 2024
+CloseX, embodies our pursuit of the unknown, symbolizing our cosmic quest to explore uncharted realms, seamlessly merging artificial intelligence and automation with the boundless mysteries of the universe.
+
+**Last Updated: Feb 24 2024**
 <!--
 
 **Here are some ideas to get you started:**
